@@ -40,15 +40,27 @@ asdf plugin-add php https://github.com/asdf-community/asdf-php.git
 ```
 
 ```bash
-asdf install php 8.1.10 (PHP 8.1)
+asdf install php 8.4.2
 ```
 
 ```bash
-asdf install php 8.0.23 (PHP 8.0)
+asdf install php 8.3.15
 ```
 
 ```bash
-asdf install php 7.4.31 (PHP 7.4)
+asdf install php 8.2.27
+```
+
+```bash
+asdf install php 8.1.31
+```
+
+```bash
+asdf install php 8.0.30
+```
+
+```bash
+asdf install php 7.4.33
 ```
 [Fix error Install PHP 7.4 openssl version 1.1.1i](https://github.com/asdf-community/asdf-php/issues/131)
 
